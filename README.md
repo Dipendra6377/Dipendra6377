@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipendra6377
-- 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning development(web and android)
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in java and pursuing software engineer
+- 🌱 I’m currently learning blockchain and i really wish i learn it in future
+- 💞️ I’m looking for anyone profesional who can guide in my journey
 - 📫 How to reach me singhdipendra6377@gmail.com
 
 <!---
