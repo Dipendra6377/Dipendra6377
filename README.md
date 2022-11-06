@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipendra6377
 - 👀 I’m interested in java and pursuing software engineer
 - 🌱 I’m currently learning blockchain and i really wish i learn it in future
-- 💞️ I’m looking for anyone profesional who can guide in my journey
+- 💞️ I’m looking for any professional who can guide in my journey and willing to collaborate in projects
 - 📫 How to reach me singhdipendra6377@gmail.com
 
 <!---
