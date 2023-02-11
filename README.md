@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing **Striver A2Z sheet**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm for coding**
+- 🌱 I’m **Certified AWS solution Architect**
 
 - 📫 How to reach me **singhdipendra6377@gmail.com**
 
