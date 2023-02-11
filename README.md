@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing **Striver A2Z sheet**
 
-- 🌱 I’m **Certified AWS solution Architect**
+- 🌱 I’m **Certified AWS solution Architect associate (SAA C03) and completed my certification on 11 Feb 2023**
 
 - 📫 How to reach me **singhdipendra6377@gmail.com**
 
