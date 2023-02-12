@@ -9,6 +9,8 @@
 
 - 🌱 I’m **Certified AWS solution Architect associate (SAA C03) and completed my certification on 11 Feb 2023**
 
+- 🧑‍🎓 I'm **Currently doing striver A2Z sheet and started learning Web development**
+
 - 📫 How to reach me **singhdipendra6377@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
