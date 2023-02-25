@@ -34,4 +34,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## My contribution
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Dipendra6377/Dipendra6377/blob/output/github-contribution-grid-snake.gif)
