@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I'm currently doing Data Structure and Algorithm from Striver A2Z Sheet<br>🧑‍🎓 I'm a Certified Solution Architect Associate (SAA-C03)<br>👷 I'm currently working on project on full stack web development<br>✍️ contact me through singhdipendra6377@gmail.com
+ 🔭 I'm currently doing Data Structure and Algorithm from Striver A2Z Sheet<br> 🧑‍🎓 I'm a Certified Solution Architect Associate (SAA-C03)<br>👷 I'm currently working on project on full stack web development<br>✍️ contact me through singhdipendra6377@gmail.com
 
 
 ## 🌐 Socials:
@@ -30,5 +30,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dipendra6377&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## My contribution
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
