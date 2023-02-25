@@ -1,9 +1,12 @@
 <h1 align="center"> hey !! WhatsUp 👋👋 Myself Dipendra singh</h1><br>
 
- ![_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC](https://user-images.githubusercontent.com/91822875/221361607-5426e135-c2c2-4d10-82a3-92dd54752f5b.gif)
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
 # 💫 About Me:
- 🔭 I'm currently doing Data Structure and Algorithm from Striver A2Z Sheet<br> 🧑‍🎓 I'm a Certified Solution Architect Associate (SAA-C03)<br>👷 I'm currently working on project on full stack web development<br>✍️ contact me through singhdipendra6377@gmail.com <br>
+ 🔭 I'm currently doing **Data Structure and Algorithm from Striver A2Z Sheet** <br> 
+ 🧑‍🎓 I'm a Certified **Solution Architect Associate (SAA-C03)**<br>
+ 👷 I'm currently working on project on **full stack web development**<br>
+ ✍️ contact me through **singhdipendra6377@gmail.com** <br>
 
 
 
