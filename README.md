@@ -1,5 +1,4 @@
-<h1 align="center"> hey !! WhatsUp 👋👋 </h1><br>
-<h2 align="center">Myself Dipendra singh  </h2> <br>
+<h1 align="center"> hey !! WhatsUp 👋👋 Myself Dipendra singh</h1><br>
 
  ![_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC](https://user-images.githubusercontent.com/91822875/221361607-5426e135-c2c2-4d10-82a3-92dd54752f5b.gif)
 
