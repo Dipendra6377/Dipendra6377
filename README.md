@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
 
 # 💫 About Me:
- <h5>🔭 I'm currently doing **Data Structure and Algorithm from Striver A2Z Sheet** </h5><br> 
- <h5>🧑‍🎓 I'm a Certified **Solution Architect Associate (SAA-C03)**</h5> <br>
- <h5>👷 I'm currently working on project on **full stack web development** </h5><br>
- <h5>✍️ contact me through **singhdipendra6377@gmail.com** </h5><br>
+ <h4>🔭 I'm currently doing **Data Structure and Algorithm from Striver A2Z Sheet** </h4>
+ <h4>🧑‍🎓 I'm a Certified **Solution Architect Associate (SAA-C03)**</h4> 
+ <h4>👷 I'm currently working on project on **full stack web development** </h4>
+ <h4>✍️ contact me through **singhdipendra6377@gmail.com** </h4>
 
 
 <br>
