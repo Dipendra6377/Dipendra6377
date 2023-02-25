@@ -1,6 +1,11 @@
+# hey !! WhatsUp ![waving-hand-hi-hello-emoticon-eu660uqe97uzndv1](https://user-images.githubusercontent.com/91822875/221361559-cb8b735a-331c-4c5d-8a3b-799f7686a520.gif)  <br>
+# Myself Dipendra singh I am a Coder
+![_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC](https://user-images.githubusercontent.com/91822875/221361607-5426e135-c2c2-4d10-82a3-92dd54752f5b.gif)
+
 
 # 💫 About Me:
  🔭 I'm currently doing Data Structure and Algorithm from Striver A2Z Sheet<br> 🧑‍🎓 I'm a Certified Solution Architect Associate (SAA-C03)<br>👷 I'm currently working on project on full stack web development<br>✍️ contact me through singhdipendra6377@gmail.com
+
 
 
 ## 🌐 Socials:
